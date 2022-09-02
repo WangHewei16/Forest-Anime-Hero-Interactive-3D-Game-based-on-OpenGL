@@ -9,6 +9,8 @@
 
 ##### 2. interaction after the hero boarded the hot-air balloon:
 `F`: Hot air balloon rise
+
+
 `H`: Hot air balloon descent
 
 ##### 3. interaction when the hero stands next to the trunk of the tree:
