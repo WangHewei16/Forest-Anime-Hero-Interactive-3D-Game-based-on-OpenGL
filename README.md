@@ -8,7 +8,7 @@
 `Up, down, left and right arrows`: big man's movement direction control
 
 ##### 2. interaction after the hero boarded the hot-air balloon:
-`F`: Hot air balloon rise
+`F`: hot air balloon rise
 
 
 `H`: hot air balloon descent
